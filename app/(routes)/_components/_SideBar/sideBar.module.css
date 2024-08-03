@@ -1,0 +1,10 @@
+.nav {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    background-color: beige;
+}
+
+.nav Link {
+    text-decoration: none;
+}
